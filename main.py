@@ -47,3 +47,5 @@ print("Minimum value: ", min_val_candits)
 
 print("..Average for the valid quotes..")
 print(int(avg / 3))
+
+# Cambio para github
